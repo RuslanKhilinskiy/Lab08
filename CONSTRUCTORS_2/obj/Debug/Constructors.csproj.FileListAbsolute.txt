@@ -1,0 +1,12 @@
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS\bin\Debug\Constructors.exe
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS\bin\Debug\Constructors.pdb
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS\obj\Debug\Constructors.exe
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS\obj\Debug\Constructors.pdb
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS_2\bin\Debug\Constructors.exe
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS_2\bin\Debug\Constructors.pdb
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS_2\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS_2\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS_2\obj\Debug\Constructors.exe
+C:\Users\RUSLAN\Desktop\CONSTRUCTORS_2\obj\Debug\Constructors.pdb

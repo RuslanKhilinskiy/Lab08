@@ -1,0 +1,6 @@
+C:\Users\RUSLAN\Desktop\FINALIZERS\bin\Debug\Finalizers.exe
+C:\Users\RUSLAN\Desktop\FINALIZERS\bin\Debug\Finalizers.pdb
+C:\Users\RUSLAN\Desktop\FINALIZERS\obj\Debug\Finalizers.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\FINALIZERS\obj\Debug\Finalizers.exe
+C:\Users\RUSLAN\Desktop\FINALIZERS\obj\Debug\Finalizers.pdb
